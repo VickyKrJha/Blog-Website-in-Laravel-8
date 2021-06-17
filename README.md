@@ -51,10 +51,34 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 **Please click the image below to enlarge.**
 
-<img src="https://github.com/VickyKrJha/Blog-Website-in-Laravel-8/blob/main/Screenshots/1.png" height="400" width="900"><img src="https://github.com/VickyKrJha/Easy-Notes-App/blob/main/screenshots/screenshot_2.png" height="600" width="300" hspace="40">
+## Showing Admin Page Images
 
-<img src="https://github.com/VickyKrJha/Easy-Notes-App/blob/main/screenshots/screenshot_3.png" height="600" width="300" hspace="40"><img src="https://github.com/VickyKrJha/Easy-Notes-App/blob/main/screenshots/screenshot_4.png" height="600" width="300" hspace="40">
+<img src="https://github.com/VickyKrJha/Blog-Website-in-Laravel-8/blob/main/Screenshots/1.png" height="400" width="900"><img src="https://github.com/VickyKrJha/Blog-Website-in-Laravel-8/blob/main/Screenshots/2.png" height="600" width="300" >
 
-<img src="https://github.com/VickyKrJha/Easy-Notes-App/blob/main/screenshots/screenshot_5.png" height="600" width="300" hspace="40"><img src="https://github.com/VickyKrJha/Easy-Notes-App/blob/main/screenshots/screenshot_6.png" height="600" width="300" hspace="40">
+<img src="https://github.com/VickyKrJha/Blog-Website-in-Laravel-8/blob/main/Screenshots/3.png" height="400" width="900"><img src="https://github.com/VickyKrJha/Blog-Website-in-Laravel-8/blob/main/Screenshots/4.png" height="600" width="300" >
 
-<img src="https://github.com/VickyKrJha/Easy-Notes-App/blob/main/screenshots/screenshot_7.png" height="600" width="300" hspace="40">
+
+## Showing FrontEnd or Related to Users Page Images
+
+<img src="https://github.com/VickyKrJha/Blog-Website-in-Laravel-8/blob/main/Screenshots/5.png" height="400" width="900"><img src="https://github.com/VickyKrJha/Blog-Website-in-Laravel-8/blob/main/Screenshots/6.png" height="600" width="300" >
+
+<img src="https://github.com/VickyKrJha/Blog-Website-in-Laravel-8/blob/main/Screenshots/7.png" height="400" width="900"><img src="https://github.com/VickyKrJha/Blog-Website-in-Laravel-8/blob/main/Screenshots/8.png" height="600" width="300" >
+
+<img src="https://github.com/VickyKrJha/Blog-Website-in-Laravel-8/blob/main/Screenshots/9.png" height="400" width="900"><img src="https://github.com/VickyKrJha/Blog-Website-in-Laravel-8/blob/main/Screenshots/10.png" height="600" width="300" >
+
+<img src="https://github.com/VickyKrJha/Blog-Website-in-Laravel-8/blob/main/Screenshots/11.png" height="400" width="900"><img src="https://github.com/VickyKrJha/Blog-Website-in-Laravel-8/blob/main/Screenshots/12.png" height="600" width="300" >
+
+
+## Contributing
+
+Any contributions, large or small, major features, bug fixes, are welcomed and appreciated
+but will be thoroughly reviewed .
+
+
+## Contact - Let's become friend
+
+- [Github](https://github.com/VickyKrJha)
+- [Facebook](https://www.facebook.com/vickykumarjha.sg)
+
+## Donation
+If this project help you reduce time to develop, you can give me a cup of coffee :) 
