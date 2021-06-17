@@ -53,20 +53,20 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 ## Showing Admin Page Images
 
-<img src="https://github.com/VickyKrJha/Blog-Website-in-Laravel-8/blob/main/Screenshots/1.png" height="400" width="900"><img src="https://github.com/VickyKrJha/Blog-Website-in-Laravel-8/blob/main/Screenshots/2.png" height="600" width="300" >
+<img src="https://github.com/VickyKrJha/Blog-Website-in-Laravel-8/blob/main/Screenshots/1.png" height="400" width="900"><img src="https://github.com/VickyKrJha/Blog-Website-in-Laravel-8/blob/main/Screenshots/2.png" height="400" width="900" >
 
-<img src="https://github.com/VickyKrJha/Blog-Website-in-Laravel-8/blob/main/Screenshots/3.png" height="400" width="900"><img src="https://github.com/VickyKrJha/Blog-Website-in-Laravel-8/blob/main/Screenshots/4.png" height="600" width="300" >
+<img src="https://github.com/VickyKrJha/Blog-Website-in-Laravel-8/blob/main/Screenshots/3.png" height="400" width="900"><img src="https://github.com/VickyKrJha/Blog-Website-in-Laravel-8/blob/main/Screenshots/4.png" height="400" width="900" >
 
 
 ## Showing FrontEnd or Related to Users Page Images
 
-<img src="https://github.com/VickyKrJha/Blog-Website-in-Laravel-8/blob/main/Screenshots/5.png" height="400" width="900"><img src="https://github.com/VickyKrJha/Blog-Website-in-Laravel-8/blob/main/Screenshots/6.png" height="600" width="300" >
+<img src="https://github.com/VickyKrJha/Blog-Website-in-Laravel-8/blob/main/Screenshots/5.png" height="400" width="900"><img src="https://github.com/VickyKrJha/Blog-Website-in-Laravel-8/blob/main/Screenshots/6.png" height="400" width="900" >
 
-<img src="https://github.com/VickyKrJha/Blog-Website-in-Laravel-8/blob/main/Screenshots/7.png" height="400" width="900"><img src="https://github.com/VickyKrJha/Blog-Website-in-Laravel-8/blob/main/Screenshots/8.png" height="600" width="300" >
+<img src="https://github.com/VickyKrJha/Blog-Website-in-Laravel-8/blob/main/Screenshots/7.png" height="400" width="900"><img src="https://github.com/VickyKrJha/Blog-Website-in-Laravel-8/blob/main/Screenshots/8.png" height="400" width="900" >
 
-<img src="https://github.com/VickyKrJha/Blog-Website-in-Laravel-8/blob/main/Screenshots/9.png" height="400" width="900"><img src="https://github.com/VickyKrJha/Blog-Website-in-Laravel-8/blob/main/Screenshots/10.png" height="600" width="300" >
+<img src="https://github.com/VickyKrJha/Blog-Website-in-Laravel-8/blob/main/Screenshots/9.png" height="400" width="900"><img src="https://github.com/VickyKrJha/Blog-Website-in-Laravel-8/blob/main/Screenshots/10.png" height="400" width="900" >
 
-<img src="https://github.com/VickyKrJha/Blog-Website-in-Laravel-8/blob/main/Screenshots/11.png" height="400" width="900"><img src="https://github.com/VickyKrJha/Blog-Website-in-Laravel-8/blob/main/Screenshots/12.png" height="600" width="300" >
+<img src="https://github.com/VickyKrJha/Blog-Website-in-Laravel-8/blob/main/Screenshots/11.png" height="400" width="900"><img src="https://github.com/VickyKrJha/Blog-Website-in-Laravel-8/blob/main/Screenshots/12.png" height="400" width="900" >
 
 
 ## Contributing
