@@ -51,7 +51,7 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 **Please click the image below to enlarge.**
 
-<img src="https://github.com/VickyKrJha/Blog-Website-in-Laravel-8/blob/main/Screenshots/1.png" height="500" width="700" hspace="40"><img src="https://github.com/VickyKrJha/Easy-Notes-App/blob/main/screenshots/screenshot_2.png" height="600" width="300" hspace="40">
+<img src="https://github.com/VickyKrJha/Blog-Website-in-Laravel-8/blob/main/Screenshots/1.png" height="400" width="900" hspace="40"><img src="https://github.com/VickyKrJha/Easy-Notes-App/blob/main/screenshots/screenshot_2.png" height="600" width="300" hspace="40">
 
 <img src="https://github.com/VickyKrJha/Easy-Notes-App/blob/main/screenshots/screenshot_3.png" height="600" width="300" hspace="40"><img src="https://github.com/VickyKrJha/Easy-Notes-App/blob/main/screenshots/screenshot_4.png" height="600" width="300" hspace="40">
 
